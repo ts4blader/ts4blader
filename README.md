@@ -35,13 +35,18 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-[Animidle - Netflix Clone][https://animidle.vercel.app]
-[BlogIdle - A personal blog][https://bidle.vercel.app]
-[RomIdle - Browse your rom][https://ts4blader.github.io/rom-idle/]
-[PhoneIdle - Get your dreaming phone here][https://ts4blader.github.io/phone-idle/]
-[GymIdle - Bootstrap 4 Demo][https://ts4blader.github.io/gym-idle/]
+[Animidle - Netflix Clone][animidle]
+[BlogIdle - A personal blog][bidle]
+[RomIdle - Browse your rom][romidle]
+[PhoneIdle - Get your dreaming phone here][phoneidle]
+[GymIdle - Bootstrap 4 Demo][gymidle]
 
 [website]: https://ts4blader.github.io/my-new-portfolio/
+[animidle]: https://animidle.vercel.app
+[bidle]: https://bidle.vercel.app
+[romidle]: https://ts4blader.github.io/rom-idle/
+[phoneidle]: https://ts4blader.github.io/phone-idle/
+[gymidle]: https://ts4blader.github.io/gym-idle/
 [twitter]: https://twitter.com/ts4blader
 [instagram]: https://instagram.com/ts4blader
 [linkedin]: https://www.linkedin.com/in/minh-qu%E1%BB%91c-tr%E1%BA%A7n-41660a211/
