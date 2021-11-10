@@ -30,6 +30,14 @@
 <br />
 <br />
 
+### Recently Projects:
+
+[Animidle - Netflix Clone][https://animidle.vercel.app]
+[BlogIdle - A personal blog][https://bidle.vercel.app]
+[RomIdle - Browse your rom][https://ts4blader.github.io/rom-idle/]
+[PhoneIdle - Get your dreaming phone here][https://ts4blader.github.io/phone-idle/]
+[GymIdle - Bootstrap 4 Demo][https://ts4blader.github.io/gym-idle/]
+
 [website]: https://ts4blader.github.io/my-new-portfolio/
 [twitter]: https://twitter.com/ts4blader
 [instagram]: https://instagram.com/ts4blader
