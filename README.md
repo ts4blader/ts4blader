@@ -32,6 +32,9 @@
 
 ### Recently Projects:
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 [Animidle - Netflix Clone][https://animidle.vercel.app]
 [BlogIdle - A personal blog][https://bidle.vercel.app]
 [RomIdle - Browse your rom][https://ts4blader.github.io/rom-idle/]
