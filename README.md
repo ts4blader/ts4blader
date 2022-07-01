@@ -3,7 +3,6 @@
 ## I wanna be a Website Designer and Front-end Developer !!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking for a job
 - 🥅 2021 Goals: Learn more about experiment
 - ⚡ Fun fact: I love to play Pixel-art game and listen music
 
