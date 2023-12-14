@@ -38,7 +38,7 @@
 [BlogIdle - A personal blog][bidle]<br />
 
 [gumac]: https://gumac.vn
-[tradecoinvadmin]: https://admincp.tradecoinvn.com
+[tradecoinvnadmin]: https://admincp.tradecoinvn.com
 [tradecoinvn]: https://tradecoinvn.com/
 [website]: https://ts4blader.github.io/my-new-portfolio/
 [animidle]: https://animidle.vercel.app
