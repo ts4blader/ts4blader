@@ -12,6 +12,7 @@
 [<img align="left" alt="Tristin Tran | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Tristin Tran | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Tristin Tran | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Tristin Tran | Gmail" width="22px" src="https://image.similarpng.com/very-thumbnail/2020/12/Gmail-logo-design-on-transparent-background-PNG.png" />][gmail]
 
 <br />
 
@@ -37,6 +38,7 @@
 [Animidle - Netflix Clone][animidle] <br />
 [BlogIdle - A personal blog][bidle]<br />
 
+[gmail]: mailto://ts4blader@gmail.com
 [gumac]: https://gumac.vn
 [tradecoinvnadmin]: https://admincp.tradecoinvn.com
 [tradecoinvn]: https://tradecoinvn.com/
