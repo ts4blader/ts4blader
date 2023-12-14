@@ -1,10 +1,10 @@
-### Hi there, I'm Tristin Tran [T3][website] 👋
+### Hi there, I'm Tristin Tran 👋
 
-## I wanna be a Website Designer and Front-end Developer !!
+## I wanna be a Fullstack Developer !!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning Backend development 🤣
 - 🥅 2023 Goals: Learn more about experiment
-- ⚡ Fun fact: I love to play Pixel-art game and listen music
+- ⚡ Fun fact: I love to play Indie game and listening music
 
 ### Connect with me:
 
@@ -31,18 +31,18 @@
 
 ### Recently Projects:
 
+[TradeCoinVN - Nơi chia sẻ kiến thức, kinh nghiệm, tin tức và tín hiệu giao dịch hữu ích trong thị thị trường tiền mã hoá][tradecoinvn] <br />
+[TradeCoinVN Admin][tradecoinvnadmin] <br />
+[GUMAC - Chuỗi cửa hàng thời trang nữ 2023 đẹp, độc, lạ][tradecoinvn] <br />
 [Animidle - Netflix Clone][animidle] <br />
 [BlogIdle - A personal blog][bidle]<br />
-[RomIdle - Browse your rom][romidle]<br />
-[PhoneIdle - Get your dreaming phone here][phoneidle]<br />
-[GymIdle - Bootstrap 4 Demo][gymidle]<br />
 
+[gumac]: https://gumac.vn
+[tradecoinvadmin]: https://admincp.tradecoinvn.com
+[tradecoinvn]: https://tradecoinvn.com/
 [website]: https://ts4blader.github.io/my-new-portfolio/
 [animidle]: https://animidle.vercel.app
 [bidle]: https://bidle.vercel.app
-[romidle]: https://ts4blader.github.io/rom-idle/
-[phoneidle]: https://ts4blader.github.io/phone-idle/
-[gymidle]: https://ts4blader.github.io/gym-idle/
 [twitter]: https://twitter.com/ts4blader
 [instagram]: https://instagram.com/ts4blader
-[linkedin]: https://www.linkedin.com/in/minh-qu%E1%BB%91c-tr%E1%BA%A7n-41660a211/
+[linkedin]: https://www.linkedin.com/in/tmquoc
