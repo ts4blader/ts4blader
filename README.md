@@ -1,10 +1,9 @@
-### Hi there, I'm Tristin Tran 👋
+### Hi there, I'm Quoc (Tran Minh Quoc) 👋
 
 ## I wanna be a Fullstack Developer !!
 
 - 🌱 I’m currently learning Backend development 🤣
-- 🥅 2023 Goals: Learn more about experiment
-- ⚡ Fun fact: I love to play Indie game and listening music
+- 🥅 2024 Goals: Learn more about Web development
 
 ### Connect with me:
 
