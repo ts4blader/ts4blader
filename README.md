@@ -32,11 +32,10 @@
 
 ### Recently Projects:
 
-[TradeCoinVN - Nơi chia sẻ kiến thức, kinh nghiệm, tin tức và tín hiệu giao dịch hữu ích trong thị thị trường tiền mã hoá][tradecoinvn] <br />
+[TradeCoinVN][tradecoinvn] <br />
 [TradeCoinVN Admin][tradecoinvnadmin] <br />
-[GUMAC - Chuỗi cửa hàng thời trang nữ 2023 đẹp, độc, lạ][tradecoinvn] <br />
-[Animidle - Netflix Clone][animidle] <br />
-[BlogIdle - A personal blog][bidle]<br />
+[GUMAC - Chuỗi cửa hàng thời trang nữ 2023 đẹp, độc, lạ][gumac] <br />
+
 
 [gmail]: mailto://ts4blader@gmail.com
 [gumac]: https://gumac.vn
